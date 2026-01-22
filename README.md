@@ -4,7 +4,7 @@ I created a simple flashcard app in TypeScript to help me learn the language. Th
 
 I wanted to practice TypeScript features like classes, async/await, and recursion while making something useful for studying.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video (provided in the student report)]
 
 # Getting Started
 
